@@ -42,7 +42,7 @@ def home():
     <head><title>Inicio</title>{style}</head>
     <body>
         <h1>Bem-vindo ao Flask no Docker</h1>
-        <p>[Gustavo Alves e Maria Jullia Mello]</p>
+        <p>[Gabriel Oliveira de Lima e Luisa Domiciano Morgado]</p>
         {nav}
     </body>
     </html>
